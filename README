@@ -1,0 +1,5 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=2694
+
+This syntax file adds not only syntax highlight, but also folding for MediaWiki-style wikitext. (This is the syntax that Wikipedia uses, among many other sites.) I've been using it for 3 years now, and while it isn't bug-free, it's reasonably mature.
+
+Note: if folding seems broken (this does happen with long and complicated files), do ":syntax sync fromstart". Also, you may find the "It's All Text!" Firefox-extension useful: https://addons.mozilla.org/en-US/firefox/addon/4125
